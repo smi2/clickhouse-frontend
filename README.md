@@ -1,3 +1,16 @@
+**Project rename TABIX, this repo depreciation**
+
+
+https://tabix.io
+
+https://tabix.io/doc/ 
+
+-----
+-----
+-----
+-----
+-----
+
 ## Назначение
 Данный проект представляет собой GUI для [OLAP Yandex Clickhouse](https://github.com/yandex/ClickHouse).
 
